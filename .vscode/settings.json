@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 13,
+    "angular-cli.application.enabled": true,
+    "angular-cli.appShell.enabled": true,
+    "angular-cli.class.enabled": true,
+    "angular-cli.directive.enabled": true
+}
